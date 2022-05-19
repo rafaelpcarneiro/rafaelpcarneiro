@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Rafael a phd student whose topics of studies are concentrated on Probability and its aplications.
+My areas of interest are 
++ ⚡ Topological Data Analysis
++ ⚡ Machine Learning (kind love this book [Understanding Machine Learning
+From Theory to Algorithms](https://www.cambridge.org/core/books/understanding-machine-learning/3059695661405D25673058E43C8BE2A6))
++ ⚡ Stochastic Process and their applications in simulation
+
+---
+programming languages that I like
+[](https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg)
+[](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)
+[](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
+[](https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg)
+---
