@@ -24,8 +24,10 @@ From Theory to Algorithms](https://www.cambridge.org/core/books/understanding-ma
 
 ---
 programming languages that I like
-[](https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg)
-[](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)
-[](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
-[](https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg)
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" width="40" height="40" />
+</div>
 ---
