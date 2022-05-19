@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I am Rafael a phd student whose topics of studies are concentrated on Probability and its aplications.
+Love math and computers. I am always trying to keep my studies on both theoretical and 
 
 <strong>My areas of interest are</strong>
 + ⚡ Topological Data Analysis
@@ -23,18 +24,6 @@ I am Rafael a phd student whose topics of studies are concentrated on Probabilit
 From Theory to Algorithms](https://www.cambridge.org/core/books/understanding-machine-learning/3059695661405D25673058E43C8BE2A6))
 + ⚡ Stochastic Process and their applications in simulation
 
----
-### programming languages and softwares that I like
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="50" height="50"/>  &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" />  &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" width="50" height="50" />  &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="50" height="50" />  &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50" height="50" />  &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="50" height="50" />  &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="50" height="50" />  &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50" />  &nbsp;
-</div>
+I have a simple website where I try to keep my work organized   [my website](https://rafaelpcarneiro.github.io/)
 
----
+If you wanna contact me here is my email 📫 rafaelpcarneiro@gmail.com
