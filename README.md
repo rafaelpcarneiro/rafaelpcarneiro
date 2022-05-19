@@ -23,11 +23,11 @@ From Theory to Algorithms](https://www.cambridge.org/core/books/understanding-ma
 + ⚡ Stochastic Process and their applications in simulation
 
 ---
-programming languages that I like
+### programming languages that I like
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" width="50" height="50" />
 </div>
 ---
