@@ -24,7 +24,7 @@ From Theory to Algorithms](https://www.cambridge.org/core/books/understanding-ma
 + ⚡ Stochastic Process and their applications in simulation
 
 ---
-### programming languages that I like
+### programming languages and softwares that I like
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="50" height="50"/>  &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" />  &nbsp;
@@ -32,6 +32,9 @@ From Theory to Algorithms](https://www.cambridge.org/core/books/understanding-ma
 <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" width="50" height="50" />  &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="50" height="50" />  &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50" height="50" />  &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="50" height="50" />  &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="50" height="50" />  &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50" />  &nbsp;
 </div>
 
 ---
