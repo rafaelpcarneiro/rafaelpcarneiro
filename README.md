@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 I am Rafael a phd student whose topics of studies are concentrated on Probability and its aplications.
-My areas of interest are 
+
+<strong>My areas of interest are</strong>
 + ⚡ Topological Data Analysis
 + ⚡ Machine Learning (kind love this book [Understanding Machine Learning
 From Theory to Algorithms](https://www.cambridge.org/core/books/understanding-machine-learning/3059695661405D25673058E43C8BE2A6))
@@ -25,11 +26,12 @@ From Theory to Algorithms](https://www.cambridge.org/core/books/understanding-ma
 ---
 ### programming languages that I like
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="50" height="50"/>  &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" />  &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" width="50" height="50" />  &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="50" height="50" />  &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50" height="50" />  &nbsp;
 </div>
+
 ---
