@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I am Rafael a phd student whose topics of studies are concentrated on Probability and its aplications.
-Love math and computers. I am always trying to keep my studies on both theoretical and 
+Love math and computers (<em>specially my old Thinkpad T400 =D</em>). 
 
 <strong>My areas of interest are</strong>
 + ⚡ Topological Data Analysis
