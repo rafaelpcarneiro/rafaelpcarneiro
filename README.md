@@ -26,7 +26,7 @@ From Theory to Algorithms](https://www.cambridge.org/core/books/understanding-ma
 + ⚡ Stochastic Process and their applications in simulation
 
 ---
-### I have a simple website where I try to keep my work organized  [my website](https://rafaelpcarneiro.github.io/)
++ I have a simple website where I try to keep my work organized  [my website](https://rafaelpcarneiro.github.io/)
 
-### If you wanna contact me here is my email 📫 rafaelpcarneiro@gmail.com
++ If you wanna contact me here is my email 📫 rafaelpcarneiro@gmail.com
 
