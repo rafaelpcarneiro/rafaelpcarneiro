@@ -29,5 +29,7 @@ From Theory to Algorithms](https://www.cambridge.org/core/books/understanding-ma
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50" height="50" />
 </div>
 ---
