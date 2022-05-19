@@ -24,6 +24,8 @@ Love math and computers. I am always trying to keep my studies on both theoretic
 From Theory to Algorithms](https://www.cambridge.org/core/books/understanding-machine-learning/3059695661405D25673058E43C8BE2A6))
 + ⚡ Stochastic Process and their applications in simulation
 
-I have a simple website where I try to keep my work organized   [my website](https://rafaelpcarneiro.github.io/)
-
+---
+I have a simple website where I try to keep my work organized  [my website](https://rafaelpcarneiro.github.io/)
+---
 If you wanna contact me here is my email 📫 rafaelpcarneiro@gmail.com
+---
