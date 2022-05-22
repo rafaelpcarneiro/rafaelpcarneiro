@@ -19,7 +19,7 @@ I am Rafael a phd student whose topics of studies are concentrated on Probabilit
 
 Love math and computers (<em>specially my old Thinkpad T400 =D</em>). 
 
-<strong>My areas of interest are</strong>
+<strong>Recently, the areas that interest me most are</strong>
 + ⚡ Topological Data Analysis
 + ⚡ Machine Learning (kind love this book [Understanding Machine Learning
 From Theory to Algorithms](https://www.cambridge.org/core/books/understanding-machine-learning/3059695661405D25673058E43C8BE2A6))
