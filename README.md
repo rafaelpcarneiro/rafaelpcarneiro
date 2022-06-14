@@ -11,5 +11,5 @@ All repositories here are about:
 </div>
 
 </br>
-**For a better explanation of my repositories**
+<strong>For a better explanation of my repositories</strong>
 ☞ [rafaelpcarneiro.github.io](https://rafaelpcarneiro.github.io) (!under development)
