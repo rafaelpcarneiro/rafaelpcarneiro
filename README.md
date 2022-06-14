@@ -10,6 +10,6 @@ All repositories here are about:
  <em>GNU/Linux</em>        
 </div>
 
-</br>
+---
 <strong>For a better explanation of my repositories</strong>
 ☞ [rafaelpcarneiro.github.io](https://rafaelpcarneiro.github.io) (!under development)
