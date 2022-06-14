@@ -15,18 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Rafael a phd student whose topics of studies are concentrated on Probability and its aplications.
-
-Love math and computers (<em>specially my old Thinkpad T400 =D</em>). 
+I am Rafael and this is my Github account =D                                        
+                                                                                    
+Programs here are all related to: Numerical Analysis and Data Science; LaTeX;       
+Discrete Event Simulations; and GNU/Linux stuff.        
 
 <strong>Recently, the areas that interest me most are</strong>
-+ ⚡ Topological Data Analysis
-+ ⚡ Machine Learning (kind love this book [Understanding Machine Learning
++ Probability and Real Analysis 
++ Machine Learning (kind love this book [Understanding Machine Learning
 From Theory to Algorithms](https://www.cambridge.org/core/books/understanding-machine-learning/3059695661405D25673058E43C8BE2A6))
-+ ⚡ Stochastic Process and their applications in simulation
++ Topological Data Analysis
++ Stochastic Processes and their application in simulations
 
 ---
-+ I have a simple website where I try to keep my work organized  [my website](https://rafaelpcarneiro.github.io/)
+### Website, contacts and social medias 
++ [my website](https://rafaelpcarneiro.github.io/)
++ **my contact** 📫 rafaelpcarneiro@gmail.com
++ [my twitter](https://twitter.com/Rafaelpc_89)
 
-+ If you wanna contact me here is my email 📫 rafaelpcarneiro@gmail.com
 
