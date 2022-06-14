@@ -4,10 +4,10 @@ I am Rafael and this is my Github account =D
                                                                                     
 All repositories here are about:
 <div align=center>
-_Numerical Analysis_ && _Data Science_ ||
- _Discrete Event Simulations_ ||
- Math && LaTeX ||
- _GNU/Linux_        
+ <em>Numerical Analysis</em> && <em>Data Science</em> ||
+ <em>Discrete Event Simulations</em> ||
+ <em>Math</em> && <em>LaTeX</em> ||
+ <em>GNU/Linux</em>        
 </div>
 
 **For a better explanation of my repositories**
