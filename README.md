@@ -7,7 +7,7 @@ All repositories here are about:
  (<em>Numerical Analysis</em> && <em>Data Science</em>) ||
  <em>Discrete Event Simulations</em> ||
  (<em>Math</em> && <em>LaTeX</em>) ||
- <em>GNU/Linux</em>        
+ <em>GNU/Linux</em> && <em>notes on programming Languages</em>
 </div>
 
 ---
