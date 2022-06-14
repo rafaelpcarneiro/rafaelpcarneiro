@@ -10,10 +10,3 @@ All programs here are related, in some extent, with:
 
 **For a better explanation of my repositories go check**
 → [rafaelpcarneiro.github.io](https://rafaelpcarneiro.github.io)
-
----
-### Contacts
-+ **My email**: rafaelpcarneiro@gmail.com
-+ **My Twitter**: [my twitter](https://twitter.com/Rafaelpc_89)
-
-
