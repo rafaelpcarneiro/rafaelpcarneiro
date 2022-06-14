@@ -2,20 +2,22 @@
 
 I am Rafael and this is my Github account =D                                        
                                                                                     
-All programs here are related, in some extent, to: _Numerical Analysis_ and _Data Science_;
-_LaTeX_; _Discrete Event Simulations_; and _GNU/Linux_ stuff.        
-
-<strong>Recently, the areas that interest me most are</strong>
-+ Probability and Real Analysis 
-+ Machine Learning (kind love this book [Understanding Machine Learning
-From Theory to Algorithms](https://www.cambridge.org/core/books/understanding-machine-learning/3059695661405D25673058E43C8BE2A6))
-+ Topological Data Analysis
-+ Stochastic Processes and their application in simulations
+All programs here are related, in some extent, with:
++ _Numerical Analysis_ and _Data Science_;
++ _LaTeX_;
++ _Discrete Event Simulations_;
++ and _GNU/Linux_ stuff.        
 
 ---
-### Website, contacts and social medias 
-+ [my website](https://rafaelpcarneiro.github.io/)
-+ email: rafaelpcarneiro@gmail.com
-+ [my twitter](https://twitter.com/Rafaelpc_89)
+### My Website
++ For a better explanation of my repositories,
++ For some notes on math and programming,
++ And for some tips on Vim and Linux
++ go check **→** [rafaelpcarneiro.github.io](https://rafaelpcarneiro.github.io)
+
+---
+### Contacts
++ **My email**: rafaelpcarneiro@gmail.com
++ **My Twitter**: [my twitter](https://twitter.com/Rafaelpc_89)
 
 
