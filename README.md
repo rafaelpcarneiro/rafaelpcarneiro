@@ -1,24 +1,9 @@
 ### Hi there 👋
 
-<!--
-**rafaelpcarneiro/rafaelpcarneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I am Rafael and this is my Github account =D                                        
                                                                                     
-Programs here are all related to: Numerical Analysis and Data Science; LaTeX;       
-Discrete Event Simulations; and GNU/Linux stuff.        
+All programs here are related, in some extent, to: _Numerical Analysis_ and _Data Science_;
+_LaTeX_; _Discrete Event Simulations_; and _GNU/Linux_ stuff.        
 
 <strong>Recently, the areas that interest me most are</strong>
 + Probability and Real Analysis 
@@ -30,7 +15,7 @@ From Theory to Algorithms](https://www.cambridge.org/core/books/understanding-ma
 ---
 ### Website, contacts and social medias 
 + [my website](https://rafaelpcarneiro.github.io/)
-+ **my contact** 📫 rafaelpcarneiro@gmail.com
++ email: rafaelpcarneiro@gmail.com
 + [my twitter](https://twitter.com/Rafaelpc_89)
 
 
